@@ -1,2 +1,2 @@
 # AIIA_ISI
-Agrupación de imágenes con IA
+Clasificacion de imagenes con redes convolucionales 
